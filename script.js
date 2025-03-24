@@ -1,4 +1,1 @@
-<script>
-    alert("FALA MEU JOVEM");
-
-</script>
+console.log("FALA MEU JOVEM");
